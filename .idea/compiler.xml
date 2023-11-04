@@ -9,8 +9,5 @@
         <module name="nutriscan" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="nutriscan" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
